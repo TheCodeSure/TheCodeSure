@@ -20,3 +20,22 @@ Codesure has developers that are subject matter experts of their respective tech
 We have only one aim i.e. GRATIFIED CLIENTS ARE THE KEY TO A THRIVING ORGANIZATION. Our services can open all the doors despite of language barriers. We provide a robust solution keeping in mind all the factors that might affect the project in future. Our methodology also focuses on retaining our clients rather than gathering new ones every time. We aim at building both professional and personal relations with our clients.
 In this agile world, we focus on amplifying our clients’ returns by providing them the best services at a nominal price. Our goal is to link each and every technology with machine learning algorithms so that we can give the most accurate results.
 
+### Our Services 
+
+![Services](./readme_resources/OurServices1.png)
+![Services](./readme_resources/OurServices2.png)
+![Services](./readme_resources/OurServices3.png)
+
+
+<hr>
+<p align="center">
+  <i>Connect With Us.</i>
+
+  <p align="center">
+    <a href="" alt="Linkedin"><img src="./readme_resources/linkedin.png"></a>
+    <a href="mailto:codesuresoftware2015@gmail.com" alt="Contact me"><img src="./readme_resources/mail.png"></a>
+    <a href="https://www.instagram.com/codesuresoftwares/" alt="Instagram"><img src="./readme_resources/instagram.png"></a>
+  </p>
+</p>
+
+<hr>
