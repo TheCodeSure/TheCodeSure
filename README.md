@@ -32,11 +32,12 @@ In this agile world, we focus on amplifying our clients’ returns by providing 
   <i>Connect With Us.</i>
 
   <p align="center">
-    <a href="" alt="Linkedin"><img src="./readme_resources/linkedin.png" height='35px'></a>
-    <a href="mailto:codesuresoftware2015@gmail.com" alt="Contact me"><img src="./readme_resources/mail.png" height='35px'></a>
+    <a href="https://thecodesure.com/" alt="Linkedin"><img src="./readme_resources/linkedin.png" height='35px'></a>
     <a href="https://www.instagram.com/codesuresoftwares/" alt="Instagram"><img src="./readme_resources/instagram.png" height='35px'></a>
-    <a href="https://www.facebook.com/codesure2015"  alt="Instagram"><img src="./readme_resources/facebook.png" height='35px'></a>
-    <a href="https://twitter.com/codesure2015" alt="Instagram"><img src="./readme_resources/twitter.png" height='35px'></a>
+    <a href="https://www.facebook.com/codesure2015"  alt="facebook"><img src="./readme_resources/facebook.png" height='35px'></a>
+    <a href="https://twitter.com/codesure2015" alt="twitter"><img src="./readme_resources/twitter.png" height='35px'></a>
+    <a href="mailto:codesuresoftware2015@gmail.com" alt="Contact me"><img src="./readme_resources/mail.png" height='35px'></a>
+    <a href="https://thecodesure.com" alt="Website"><img src="./readme_resources/website.png" height='35px'></a>
   </p>
 </p>
 
