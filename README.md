@@ -1,3 +1,5 @@
+![CodeSure Tagline](./readme_resources/tagline.png)
+
 # The CodeSure Software Solutions Pvt Limited 
 
 ### About Us :book:
@@ -32,7 +34,7 @@ In this agile world, we focus on amplifying our clients’ returns by providing 
   <i>Connect With Us.</i>
 
   <p align="center">
-    <a href="https://thecodesure.com/" alt="Linkedin"><img src="./readme_resources/linkedin.png" height='35px'></a>
+    <a href="https://www.linkedin.com/company/codesure" alt="Linkedin"><img src="./readme_resources/linkedin.png" height='35px'></a>
     <a href="https://www.instagram.com/codesuresoftwares/" alt="Instagram"><img src="./readme_resources/instagram.png" height='35px'></a>
     <a href="https://www.facebook.com/codesure2015"  alt="facebook"><img src="./readme_resources/facebook.png" height='35px'></a>
     <a href="https://twitter.com/codesure2015" alt="twitter"><img src="./readme_resources/twitter.png" height='35px'></a>
